@@ -20,10 +20,10 @@ A simple Python project, which fetches data from API and makes it easier to visu
 
 ### Sample Plots
 1. *Current Vs User*
-![Current Vs User](https://github.com/emon4075/Data_Visualization_API/blob/master/1.png?raw=true)
+![Current Vs User](https://github.com/emon4075/Data_Visualization_API/blob/master/Plots/1.png?raw=true)
 2. *Max Vs User*
-![Max Vs User](https://github.com/emon4075/Data_Visualization_API/blob/master/2.png?raw=true)
+![Max Vs User](https://github.com/emon4075/Data_Visualization_API/blob/master/Plots/2.png?raw=true)
 3. *Current & Max Vs User*
-![Current & Max Vs User](https://github.com/emon4075/Data_Visualization_API/blob/master/3.png?raw=true)
+![Current & Max Vs User](https://github.com/emon4075/Data_Visualization_API/blob/master/Plots/3.png?raw=true)
 4. *Friend Count Vs User*
-![Friend Count Vs User](https://github.com/emon4075/Data_Visualization_API/blob/master/4.png?raw=true)
+![Friend Count Vs User](https://github.com/emon4075/Data_Visualization_API/blob/master/Plots/4.png?raw=true)
